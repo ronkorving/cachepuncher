@@ -1,4 +1,4 @@
 cachepuncher
 ============
 
-Punch caches right in the cache!
+Punch browser caching right in the cache!
